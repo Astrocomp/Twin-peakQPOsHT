@@ -45,12 +45,14 @@ orbit (ISCO), following the formulation presented by Abramowicz et al. \
 derived by Matuszkov\[AAcute] et al. (2024).\n\n",
  StyleBox["References",
   FontSize->18],
- "\nHartle J. B. & Thorne K. S., 1968, APJ, 153, 807\nAbramowicz M . A ., \
-Almergren G . J . E ., Klu\:017aniak W ., & Thampan A . V ., 2003, gr qc, gr \
-- qc/0312070\nMatuszkov\[AAcute] M., T\[ODoubleDot]r\[ODoubleDot]k G., \
+ "\nMatuszkov\[AAcute] M., T\[ODoubleDot]r\[ODoubleDot]k G., \
 Klimovi\[CHacek]ov\[AAcute] K., Hor\[AAcute]k J., Straub O., \
 \[CapitalSHacek]r\[AAcute]mkov\[AAcute] E., Lan\[CHacek]ov\[AAcute] D., \
-Urbanec M., Urbancov\[AAcute] G., Karas V., 2024, A&A, 691, A168\n"
+Urbanec M., Urbancov\[AAcute] G., Karas V., 2024, A&A, 691, A168\n \
+Abramowicz M . A ., \
+Almergren G . J . E ., Klu\:017aniak W ., & Thampan A . V ., 2003, gr qc, gr \
+- qc/0312070\n \
+Hartle J. B. & Thorne K. S., 1968, APJ, 153, 807\n"
 }], "Text",
  CellFrame->{{0, 0}, {0, 0}},
  CellFrameColor->None,
